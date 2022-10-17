@@ -8,7 +8,7 @@
 <strong>Output:</strong> [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
 </pre><p><strong>Example 2:</strong></p>
 <pre><strong>Input:</strong> numRows = 1
-<strong>Output:</strong> [[1]]
+<strong>Final Output:</strong> [[1]]
 </pre>
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
